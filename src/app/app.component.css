@@ -1,0 +1,159 @@
+
+  *{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    font-family: 'Roboto', sans-serif !important;
+}
+.main-background{
+    background-image: url("images/Salesforce-logo-1.jpg");
+    background-size: 100%;
+    background-size: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#main-section {
+    padding-top: 30px;
+    padding-left: 10px;
+   
+}
+.h4{
+    margin-bottom: auto;
+}
+.font-bold{
+    font-weight: bold;
+}
+
+.header{
+    margin-bottom: auto ;
+}
+
+.heading h1{
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+.heading h4{
+    font-size: 20px;
+    font-weight: normal;
+}
+.link{
+    padding-top: 10px;
+}
+.link p{
+    padding-bottom: 20px;
+}
+.link a{
+    color: rgb(48, 27, 233);
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.connect-button{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+.dollar-buttons{
+    border-radius: 8px;
+    
+    border-color: transparent ;
+    margin-right: 5px;
+    width: 36px;
+    height: 36px;
+}
+.question-buttons{
+    border-radius: 8px;
+  
+    border-color: transparent ;
+    margin-right: 5px;
+    width: 36px;
+    height: 36px;
+}
+.phone-buttons{
+    border-radius: 8px;
+   
+    border-color: transparent ;
+    margin-right: 5px;
+    width: 36px;
+    height: 36px;
+}
+.settings-buttons{
+    border-radius: 8px;
+   
+    border-color: transparent ;
+    margin-right: 5px;
+    width: 36px;
+    height: 36px;
+
+}
+.sign-out-buttons{
+    border-radius: 8px;
+    
+    border-color: transparent ;
+    margin-right: 5px;
+    width: 36px;
+    height: 36px;
+   
+
+}
+footer {
+    background-color: lightgray;
+  }
+
+.user-guide a{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+.contact-support{
+    padding-top: 10px;
+    padding-bottom: 200px; /*-----used-to-make-the-icons-position-bottom---*/
+}
+.contact-support i{
+    font-size:36px;
+    color:hsl(24, 74%, 57%)
+    
+}
+.contact-support a{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.mat-icon{
+    color: black;
+    cursor: pointer;
+
+}
+.icon-support{
+    color: black;
+    font-size:33px;
+    color:hsl(133, 37%, 55%);
+    margin-bottom: 5px;
+    
+  }  
+  .icon-help{
+    color: black;
+    font-size:33px;
+    color:rgba(255, 81, 0, 0.897);
+    margin-bottom: 5px;
+    
+  }   
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+    text-align: center;
+  }
